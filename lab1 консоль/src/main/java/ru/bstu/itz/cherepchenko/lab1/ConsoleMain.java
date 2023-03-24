@@ -47,7 +47,7 @@ public class ConsoleMain {
 
 
     static int inputKey() {
-        System.out.println("Введите 1, если хотите считывать из консоли, если хотите считать массив из файла 2... ");
+        System.out.println("Введите 1 или 2... ");
         return getNum();
     }
 
